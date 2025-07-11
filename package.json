@@ -2,9 +2,10 @@
   "name": "react-tailwind-css-starter-pack",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tiwari2683.github.io/PortfolioWebsite",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "git+https://github.com/tiwari2683/PortfolioWebsite.git"
   },
   "author": "Pranay Gupta",
   "bugs": {

@@ -56,7 +56,7 @@ export default function Hero() {
         className="flex-1 flex justify-center"
       >
         <img
-          src="/assets/profile.jpg"
+          src="assets/profile.jpg"
           alt="Prashant Tiwari"
           className="w-60 h-60 md:w-80 md:h-80 rounded-full object-cover shadow-lg border-4 border-indigo-500 dark:border-indigo-400"
         />
