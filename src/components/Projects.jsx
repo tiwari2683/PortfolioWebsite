@@ -3,19 +3,19 @@ import { motion } from 'framer-motion'
 const projects = [
   {
     title: 'Blood Bank App',
-    image: 'assets/bloodbank.jpg',
+    image: './assets/bloodbank.jpg',
     desc: 'Role-based MERN app with inventory tracking, Tailwind UI, and Redux state management.',
     github: 'https://github.com/tiwari2683/Blood-bank-app',
   },
   {
     title: 'E-Learning Platform',
-    image: 'assets/elearning.jpg',
+    image: './assets/elearning.jpg',
     desc: 'JWT-secured MERN-based e-learning site with Razorpay and Cloudinary integrations.',
     github: 'https://github.com/tiwari2683/Study-Notion',
   },
   {
     title: 'Crop Recommendation System (ML)',
-    image: 'assets/crop-recommendation.png',
+    image: './assets/crop-recommendation.png',
     desc: '99.84% accurate hybrid ML model with Streamlit UI and IEEE-benchmark beating results.',
     github: 'https://github.com/tiwari2683/Blood-bank-app',
   },

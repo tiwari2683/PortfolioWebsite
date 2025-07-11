@@ -65,7 +65,7 @@ export default function Contact() {
         {/* Right Column - Optional illustration */}
         <div className="flex justify-center md:justify-end">
           <img
-            src="assets/contact-illustration.svg"
+            src="./assets/contact-illustration.svg"
             alt="Contact Illustration"
             className="w-72 md:w-96"
           />
